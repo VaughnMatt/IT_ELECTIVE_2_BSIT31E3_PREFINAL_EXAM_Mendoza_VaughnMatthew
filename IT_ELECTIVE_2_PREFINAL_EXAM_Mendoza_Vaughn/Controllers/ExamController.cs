@@ -13,7 +13,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 1,
                     Question = "What is the main problem solved by using a database instead of an in-memory collection?",
-                    Answer = "C. It allows data to persist after the application stops"
+                    Answer = "C — It allows data to persist after the application stops1"
                 },
 
                 new ExamQuestion
