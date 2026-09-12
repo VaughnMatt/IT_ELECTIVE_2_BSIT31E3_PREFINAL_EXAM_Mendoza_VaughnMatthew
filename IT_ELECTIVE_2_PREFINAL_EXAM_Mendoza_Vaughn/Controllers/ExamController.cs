@@ -83,7 +83,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 11,
                     Question = "Why might a ViewModel be used when displaying Student and Section information?",
-                    Answer = "B. To combine or shape the data specifically needed by the view"
+                    Answer = "11B. To combine or shape the data specifically needed by the view"
                 },
 
                 new ExamQuestion
