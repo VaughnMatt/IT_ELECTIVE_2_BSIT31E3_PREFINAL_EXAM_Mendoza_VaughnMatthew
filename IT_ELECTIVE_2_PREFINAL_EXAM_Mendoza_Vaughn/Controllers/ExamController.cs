@@ -69,7 +69,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 9,
                     Question = "What is the purpose of a navigation property such as public Section Section { get; set; }?",
-                    Answer = "B. It represents a relationship to another entity"
+                    Answer = "9B. It represents a relationship to another entity"
                 },
 
                 new ExamQuestion
