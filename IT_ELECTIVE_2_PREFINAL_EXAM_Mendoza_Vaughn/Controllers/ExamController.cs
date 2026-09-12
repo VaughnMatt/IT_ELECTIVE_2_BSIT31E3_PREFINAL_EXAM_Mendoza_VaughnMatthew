@@ -90,7 +90,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 12,
                     Question = "Consider this query: var students = _context.Students.Include(s => s.Section).ToList(); What is the main benefit of Include(s => s.Section)?",
-                    Answer = "A. It loads the related Section navigation property"
+                    Answer = "12A. It loads the related Section navigation property"
                 },
 
                 new ExamQuestion
