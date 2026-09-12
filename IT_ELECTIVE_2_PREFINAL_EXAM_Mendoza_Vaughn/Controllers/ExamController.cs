@@ -27,7 +27,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 3,
                     Question = "What is the primary purpose of Entity Framework Core?",
-                    Answer = "C. To map objects in code to relational database data"
+                    Answer = "C. To map objects in code to relational database data3"
                 },
 
                 new ExamQuestion
