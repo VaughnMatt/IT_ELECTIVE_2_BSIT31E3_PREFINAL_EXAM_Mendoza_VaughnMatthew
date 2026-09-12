@@ -34,7 +34,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 4,
                     Question = "Which EF Core component is primarily responsible for communicating with the database?",
-                    Answer = "A. DbContext"
+                    Answer = "A. 4DbContext"
                 },
 
                 new ExamQuestion
