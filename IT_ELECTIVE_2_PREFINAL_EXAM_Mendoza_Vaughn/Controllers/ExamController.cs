@@ -132,7 +132,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 18,
                     Question = "Which middleware is commonly used in ASP.NET Core for centralized exception handling?",
-                    Answer = "B. UseExceptionHandler()"
+                    Answer = "18B. UseExceptionHandler()"
                 },
 
                 new ExamQuestion
