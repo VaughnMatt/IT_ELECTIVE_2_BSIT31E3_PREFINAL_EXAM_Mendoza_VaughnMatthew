@@ -1,0 +1,78 @@
+﻿@model List<IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Models.ExamQuestion>
+
+@{
+    ViewData["Title"] = "IT Elective 2 - Prefinals Examination";
+}
+
+<div class="exam-container">
+
+    <div class="exam-header">
+        <div class="badge-title">COLLEGE OF COMPUTER STUDIES</div>
+
+        <h1>IT ELECTIVE 2</h1>
+
+        <h2>WEB SYSTEM AND TECHNOLOGIES</h2>
+
+        <p class="exam-title">PREFINALS EXAMINATION</p>
+        <p>1ST SEMESTER, ACADEMIC YEAR 2026-2027</p>
+    </div>
+
+    <div class="student-information">
+        <h4>Student Information</h4>
+
+        <div class="row">
+            <div class="col-md-6">
+                <strong>Name:</strong>
+                Vaughn Matthew G. Mendoza
+            </div>
+
+            <div class="col-md-6">
+                <strong>Class & Section:</strong>
+                [YOUR SECTION]
+            </div>
+        </div>
+    </div>
+
+    <div class="instructions">
+        <h4>General Instructions</h4>
+
+        <ul>
+            <li>Read each question carefully before selecting your answer.</li>
+            <li>Choose the best answer from the given options.</li>
+            <li>Each question displays its correct answer below.</li>
+            <li>This application does not require a database.</li>
+        </ul>
+    </div>
+
+    <div class="questions-header">
+        <h2>Multiple Choice Questions</h2>
+        <p>Questions 1–20</p>
+    </div>
+
+    @foreach (var item in Model)
+    {
+        <div class="question-card">
+
+            <div class="question-number">
+                Question @item.Number
+            </div>
+
+            <div class="question-text">
+                @item.Question
+            </div>
+
+            <div class="answer-box">
+                <span class="answer-label">Correct Answer</span>
+                <p>@item.Answer</p>
+            </div>
+
+        </div>
+    }
+
+    <div class="footer-section">
+        <h4>IT Elective 2 – Web System and Technologies</h4>
+        <p>Prefinals Examination Project</p>
+        <p>ASP.NET Core MVC Application</p>
+    </div>
+
+</div>
