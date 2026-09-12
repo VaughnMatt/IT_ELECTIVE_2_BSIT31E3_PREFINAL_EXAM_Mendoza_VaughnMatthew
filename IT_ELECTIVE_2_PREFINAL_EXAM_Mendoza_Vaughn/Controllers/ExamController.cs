@@ -97,7 +97,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 13,
                     Question = "Which type of validation occurs in the browser before a request is sent to the server?",
-                    Answer = "B. Client-side validation"
+                    Answer = "13B. Client-side validation"
                 },
 
                 new ExamQuestion
