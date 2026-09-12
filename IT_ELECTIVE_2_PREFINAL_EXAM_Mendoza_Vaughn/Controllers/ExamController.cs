@@ -41,7 +41,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 5,
                     Question = "What does the following command primarily do? dotnet ef dbcontext scaffold \"ConnectionString\" Microsoft.EntityFrameworkCore.SqlServer -o Models",
-                    Answer = "C. Generates EF Core models and a DbContext from an existing database"
+                    Answer = "5C. Generates EF Core models and a DbContext from an existing database"
                 },
 
                 new ExamQuestion
