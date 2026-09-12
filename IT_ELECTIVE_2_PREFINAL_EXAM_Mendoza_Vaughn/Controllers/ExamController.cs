@@ -55,7 +55,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 7,
                     Question = "A Student belongs to exactly one Section, while a Section can contain many students. What type of relationship is this?",
-                    Answer = "B. One-to-Many"
+                    Answer = "7B. One-to-Many"
                 },
 
                 new ExamQuestion
