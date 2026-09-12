@@ -76,7 +76,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 10,
                     Question = "What does .Include() generally allow EF Core to do?",
-                    Answer = "B. Load related Section data together with Students"
+                    Answer = "10B. Load related Section data together with Students"
                 },
 
                 new ExamQuestion
