@@ -62,7 +62,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 8,
                     Question = "In the following example, what is SectionId? public int SectionId { get; set; } public Section Section { get; set; }",
-                    Answer = "B. Foreign key referencing Section"
+                    Answer = "8B. Foreign key referencing Section"
                 },
 
                 new ExamQuestion
