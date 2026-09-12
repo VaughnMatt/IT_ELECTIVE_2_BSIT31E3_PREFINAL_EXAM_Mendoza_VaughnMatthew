@@ -20,7 +20,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 2,
                     Question = "Which approach is being used when an existing database is used to generate EF Core entity classes?",
-                    Answer = "B. Database-First"
+                    Answer = "B. Database-First2"
                 },
 
                 new ExamQuestion
