@@ -48,7 +48,7 @@ namespace IT_ELECTIVE_2_PREFINAL_EXAM_Mendoza_Vaughn.Controllers
                 {
                     Number = 6,
                     Question = "Where is a database connection string commonly stored in an ASP.NET Core MVC application?",
-                    Answer = "B. appsettings.json"
+                    Answer = "6B. appsettings.json"
                 },
 
                 new ExamQuestion
